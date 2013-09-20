@@ -1,7 +1,7 @@
 ---
 abstract: 'A Catalyst Plugin for Sitemaps up to 2.5 billion urls.'
 author:
-  - 'Derek J. Curtis <djcurtis@summersetsoftware.com>'
+  - 'Derek J. Curtis C<< <djcurtis at summersetsoftware dot com>> >>'
 build_requires:
   ExtUtils::MakeMaker: 6.59
   Test::More: 0.47
@@ -30,4 +30,4 @@ requires:
   perl: 5.10.2
 resources:
   license: http://dev.perl.org/licenses/
-version: undef
+version: 0.9
